@@ -103,6 +103,6 @@ Gráfico de la alerta.
 
 ![riesgo creacion de usuarios no autorizados imagen](https://user-images.githubusercontent.com/50051421/57572724-45112500-73e4-11e9-94a8-797cd48fd51e.PNG)
 
+2. RIESGO ACCESO NO AUTORIZADO
 
-
-
+![Taller4_Riesgo1_20](https://user-images.githubusercontent.com/50051518/57574236-e1462680-73fa-11e9-8c1b-e888557c5972.PNG)
