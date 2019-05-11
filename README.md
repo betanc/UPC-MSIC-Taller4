@@ -105,4 +105,13 @@ Gráfico de la alerta.
 
 2. RIESGO ACCESO NO AUTORIZADO
 
+Identificación de intentos de autenticación fallidos de usuarios desconocidos , posiblemente producto de un ataque de diccionario o
+un ataque de fuerza bruta.
+![Taller4_Riesgo1_24](https://user-images.githubusercontent.com/50051493/57575813-9a1a5e80-7417-11e9-843c-df5671b711bb.PNG)
+![Taller4_Riesgo1_26](https://user-images.githubusercontent.com/50051493/57575810-91c22380-7417-11e9-97a6-d88372af0f30.PNG)
+![Taller4_Riesgo1_19](https://user-images.githubusercontent.com/50051493/57575828-f1203380-7417-11e9-99b7-f015ca7d2e5a.PNG)
+
+![Taller4_Riesgo1_21](https://user-images.githubusercontent.com/50051493/57575833-ff6e4f80-7417-11e9-9f9d-8d7d35cce53b.PNG)
+
+![Taller4_Riesgo1_22](https://user-images.githubusercontent.com/50051493/57575837-05643080-7418-11e9-8322-a2d54276302d.PNG)
 ![Taller4_Riesgo1_20](https://user-images.githubusercontent.com/50051518/57574236-e1462680-73fa-11e9-8c1b-e888557c5972.PNG)
