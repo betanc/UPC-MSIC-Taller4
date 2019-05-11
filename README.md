@@ -26,7 +26,7 @@ Acceso a la herramienta:
 
 <b> Punto 2. Tutorial Splunk: </b>
 
-Cargue de archivos a splunk de acuerdo a puntos 1 a 4 del tutorial:
+Se ejecutaron los puntos 1 a 4 del tutorial Splunk y se conecto y cargó a la base de datos de prueba permitiendo realizar consultas, busquedas, etc sobre lo previamente cargado:
 
 ![splunk5](https://user-images.githubusercontent.com/48939055/57570050-64e42100-73c3-11e9-9abe-9759293536b1.jpg)
 
@@ -51,17 +51,25 @@ Search= 74.53.23.135 | stats count by useragent
 ![Taller4b](https://user-images.githubusercontent.com/50051493/57571058-b8a83780-73ce-11e9-9eb2-c7d27b60dc29.PNG)
 
 
-<b> Punto 3. Cargue base de datos: </b>
+<b> Punto 3. Se incia base de datos my sql, se configura splunk cargando addon o driver de conexión según corresponde, generando alertas y graficas de acuerdo a los riesgos a monitorear: </b>
 
-Conexión de SPLUNK con la Base de Datos, para el Monitoreo
+Activación de logs en la base de datos para que sean posteriormente correlacionados por splunk:
 
 ![splunk9](https://user-images.githubusercontent.com/48939055/57570046-644b8a80-73c3-11e9-99d3-31c373b140a7.jpg)
 
+Incio del servicio mysql y la bd:
+
 ![splunk10](https://user-images.githubusercontent.com/48939055/57570047-64e42100-73c3-11e9-88e3-5447f7e9c1dd.jpg)
+
+Base de datos "employees" importanda al motor de base de datos local el cual sera monitoreado por splunk:
 
 ![splunk11](https://user-images.githubusercontent.com/48939055/57570048-64e42100-73c3-11e9-8a9f-140834554224.jpg)
 
+Notificación del importe exitoso de la base de datos y creación de usuario para monitoreo "splunk":
+
 ![splunk12](https://user-images.githubusercontent.com/48939055/57570049-64e42100-73c3-11e9-97fb-a871f888161e.jpg)
+
+Asignación de privilegios al usuario "splunk":
 
 ![splunk13](https://user-images.githubusercontent.com/48939055/57572002-e8f5d300-73da-11e9-9fa3-176ef1914e7d.jpg)
 
