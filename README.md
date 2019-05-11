@@ -36,6 +36,16 @@ Acceso a la herramienta:
 
 ![splunk8](https://user-images.githubusercontent.com/48939055/57570045-644b8a80-73c3-11e9-97a8-3bd20479290b.jpg)
 
+Resultados de la busqueda de exploradores en el host: 74.53.23.135
+
+![Taller4_Resultado](https://user-images.githubusercontent.com/50051518/57570099-0e2b1700-73c4-11e9-9189-20a6b3e9e7b2.PNG)
+
+Mozilla en diferentes versiones:
+![Taller4_Resultado3](https://user-images.githubusercontent.com/50051518/57570100-0e2b1700-73c4-11e9-90e0-7d94fa6a64f6.PNG)
+
+Conexión de SPLUNK con la Base de Datos, para el Monitoreo
+
+
 ![splunk9](https://user-images.githubusercontent.com/48939055/57570046-644b8a80-73c3-11e9-99d3-31c373b140a7.jpg)
 
 ![splunk10](https://user-images.githubusercontent.com/48939055/57570047-64e42100-73c3-11e9-88e3-5447f7e9c1dd.jpg)
@@ -45,9 +55,4 @@ Acceso a la herramienta:
 ![splunk12](https://user-images.githubusercontent.com/48939055/57570049-64e42100-73c3-11e9-97fb-a871f888161e.jpg)
 
 
-Resultados de la busqueda de exploradores en el host: 74.53.23.135
 
-![Taller4_Resultado](https://user-images.githubusercontent.com/50051518/57570099-0e2b1700-73c4-11e9-9189-20a6b3e9e7b2.PNG)
-
-Mozilla en diferentes versiones:
-![Taller4_Resultado3](https://user-images.githubusercontent.com/50051518/57570100-0e2b1700-73c4-11e9-90e0-7d94fa6a64f6.PNG)
