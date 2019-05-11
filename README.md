@@ -26,17 +26,17 @@ Acceso a la herramienta:
 
 <b> Punto 2. Tutorial Splunk: </b>
 
-![splunk5](https://user-images.githubusercontent.com/48939055/57570050-64e42100-73c3-11e9-9abe-9759293536b1.jpg)
+Cargue de archivos a splunk de acuerdo a puntos 1 a 4 del tutorial:
 
-[b] Punto 3. Cargue base de datos: [/b]
+![splunk5](https://user-images.githubusercontent.com/48939055/57570050-64e42100-73c3-11e9-9abe-9759293536b1.jpg)
 
 ![splunk6](https://user-images.githubusercontent.com/48939055/57570043-644b8a80-73c3-11e9-9d01-641dc5a980bc.jpg)
 
 ![splunk7](https://user-images.githubusercontent.com/48939055/57570044-644b8a80-73c3-11e9-9aa1-e60f1a25b54f.jpg)
 
-![splunk8](https://user-images.githubusercontent.com/48939055/57570045-644b8a80-73c3-11e9-97a8-3bd20479290b.jpg)
-
 Resultados de la busqueda de exploradores en el host: 74.53.23.135
+
+![splunk8](https://user-images.githubusercontent.com/48939055/57570045-644b8a80-73c3-11e9-97a8-3bd20479290b.jpg)
 
 ![Taller4_Resultado](https://user-images.githubusercontent.com/50051518/57570099-0e2b1700-73c4-11e9-9189-20a6b3e9e7b2.PNG)
 
@@ -51,8 +51,9 @@ Search= 74.53.23.135 | stats count by useragent
 ![Taller4b](https://user-images.githubusercontent.com/50051493/57571058-b8a83780-73ce-11e9-9eb2-c7d27b60dc29.PNG)
 
 
-Conexión de SPLUNK con la Base de Datos, para el Monitoreo
+<b> Punto 3. Cargue base de datos: </b>
 
+Conexión de SPLUNK con la Base de Datos, para el Monitoreo
 
 ![splunk9](https://user-images.githubusercontent.com/48939055/57570046-644b8a80-73c3-11e9-99d3-31c373b140a7.jpg)
 
