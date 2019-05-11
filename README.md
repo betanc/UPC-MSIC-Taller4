@@ -43,6 +43,14 @@ Resultados de la busqueda de exploradores en el host: 74.53.23.135
 Mozilla en diferentes versiones:
 ![Taller4_Resultado3](https://user-images.githubusercontent.com/50051518/57570100-0e2b1700-73c4-11e9-90e0-7d94fa6a64f6.PNG)
 
+
+Busqueda Especifica de User-Agents utilizados en el activo con Direccionamiento IP 74.53.23.135
+
+Search= 74.53.23.135 | stats count by useragent
+
+![Taller4b](https://user-images.githubusercontent.com/50051493/57571058-b8a83780-73ce-11e9-9eb2-c7d27b60dc29.PNG)
+
+
 Conexión de SPLUNK con la Base de Datos, para el Monitoreo
 
 
