@@ -80,5 +80,8 @@ Conexión de SPLUNK con la Base de Datos, para el Monitoreo
 
 ![splunk21](https://user-images.githubusercontent.com/48939055/57572154-2f97fd00-73dc-11e9-88a7-e79e6d75c8cb.jpg)
 
-![splunk22](https://user-images.githubusercontent.com/48939055/57572155-2f97fd00-73dc-11e9-8405-0a4fe546d3cf.jpg)
+![splunk22](https://user-images.githubusercontent.com/48939055/57572219-e09e9780-73dc-11e9-924e-383e80a5a5df.jpg)
+
+![splunk23](https://user-images.githubusercontent.com/48939055/57572220-e1372e00-73dc-11e9-9c50-dfbe40c6a87c.jpg)
+
 
