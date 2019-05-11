@@ -62,5 +62,19 @@ Conexión de SPLUNK con la Base de Datos, para el Monitoreo
 
 ![splunk12](https://user-images.githubusercontent.com/48939055/57570049-64e42100-73c3-11e9-97fb-a871f888161e.jpg)
 
+![splunk13](https://user-images.githubusercontent.com/48939055/57572002-e8f5d300-73da-11e9-9fa3-176ef1914e7d.jpg)
 
+![splunk14](https://user-images.githubusercontent.com/48939055/57572003-e8f5d300-73da-11e9-83eb-4638a1e594b5.jpg)
+
+![splunk15](https://user-images.githubusercontent.com/48939055/57572004-e98e6980-73da-11e9-9591-f75963284b5b.jpg)
+
+![splunk16](https://user-images.githubusercontent.com/48939055/57572005-e98e6980-73da-11e9-9ed3-95c702472e78.jpg)
+
+![splunk17](https://user-images.githubusercontent.com/48939055/57572006-e98e6980-73da-11e9-8238-9ca50f524854.jpg)
+
+![splunk18](https://user-images.githubusercontent.com/48939055/57572007-e98e6980-73da-11e9-82f7-749fafae8796.jpg)
+
+![splunk19](https://user-images.githubusercontent.com/48939055/57572008-e98e6980-73da-11e9-83fc-ac5915a68b72.jpg)
+
+![splunk20](https://user-images.githubusercontent.com/48939055/57572009-e98e6980-73da-11e9-8572-4f66098740fb.jpg)
 
