@@ -124,12 +124,14 @@ un ataque de fuerza bruta.
 <br>
 ![Taller4_Riesgo1_23](https://user-images.githubusercontent.com/50051493/57575836-039a6d00-7418-11e9-8b04-674c3d640649.PNG)
 </br>
+Finalmente se procede a realizar el Dashboard en donde se pueda ver de forma grafica el numero intentos fallidos y las horas en las que se realizaron.
 <br>
 ![Taller4_Riesgo1_21](https://user-images.githubusercontent.com/50051493/57575833-ff6e4f80-7417-11e9-9f9d-8d7d35cce53b.PNG)
 </br>
 <br>
 ![Taller4_Riesgo1_22](https://user-images.githubusercontent.com/50051493/57575837-05643080-7418-11e9-8322-a2d54276302d.PNG)
 </br>
+Si se quiere llegar a mas detalle se puede realizar un dashbord de los usuarios que tuvieron los intentos fallidos de autenticación como se muestra a continuación:
 <br>
 ![Taller4_Riesgo1_20](https://user-images.githubusercontent.com/50051518/57574236-e1462680-73fa-11e9-8c1b-e888557c5972.PNG)
 </br>
