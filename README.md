@@ -107,15 +107,15 @@ Gráfico de la alerta.
 
 Identificación de intentos de autenticación fallidos de usuarios desconocidos , posiblemente producto de un ataque de diccionario o
 un ataque de fuerza bruta.
-
-<br>Para recrear este riesgo y visualizarlo con splunk se realizo una prueba de concepto en la cual se realizaron varios intentos de autenticación a la base de datos con usuarios desconocidos  sin tener ningun exit, estos intentos mostraban un error de acceso de negado como se encuentra a continuación. </br>
-
-![Taller4_Riesgo1_24](https://user-images.githubusercontent.com/50051493/57575813-9a1a5e80-7417-11e9-843c-df5671b711bb.PNG)
-
-<br>De igual Manera se reali un conexión valida con el usuario root.</br>
-![Taller4_Riesgo1_26](https://user-images.githubusercontent.com/50051493/57575810-91c22380-7417-11e9-97a6-d88372af0f30.PNG)
+Para recrear este riesgo y visualizarlo con splunk se realizo una prueba de concepto en la cual se realizaron varios intentos de autenticación a la base de datos con usuarios desconocidos  sin tener ningun exit, estos intentos mostraban un error de acceso de negado como se encuentra a continuación. 
 <br>
-Una vez identificados y analizados los logs de intentos de autenticación fallidos y validos, se procedio a realizar la busqueda en splunk para identificar esta situación, la cual es la que se muestra a continuacion:</br>
+![Taller4_Riesgo1_24](https://user-images.githubusercontent.com/50051493/57575813-9a1a5e80-7417-11e9-843c-df5671b711bb.PNG)
+</br>
+<br>De igual Manera se reali un conexión valida con el usuario root.</br>
+<br>
+![Taller4_Riesgo1_26](https://user-images.githubusercontent.com/50051493/57575810-91c22380-7417-11e9-97a6-d88372af0f30.PNG)
+</br>
+<br>Una vez identificados y analizados los logs de intentos de autenticación fallidos y validos, se procedio a realizar la busqueda en splunk para identificar esta situación, la cual es la que se muestra a continuacion:</br>
 
 <br>sourcetype:"mysql:generalQueryLog" Argument="Acces denied"</br>
 
