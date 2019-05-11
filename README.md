@@ -91,6 +91,10 @@ Conexión de SPLUNK con la Base de Datos, para el Monitoreo
 
 ![riesgo creacion de usuarios no autorizados](https://user-images.githubusercontent.com/50051421/57572390-19d80700-73df-11e9-8f5f-bb7f9f35b526.PNG)
 
+Gráfico de la alerta.
+
+![riesgo creacion de usuarios no autorizados imagen](https://user-images.githubusercontent.com/50051421/57572724-45112500-73e4-11e9-94a8-797cd48fd51e.PNG)
+
 
 
 
