@@ -1,7 +1,7 @@
 # UPC-MSIC-Taller4
 Taller 4, monitoreo con splunk a base de datos
 
-[b] Punto 1. Instalación de Splunk: [/b]
+<b> Punto 1. Instalación de Splunk: </b>
 
 Instalación:
 
@@ -24,7 +24,7 @@ Acceso a la herramienta:
 ![splunk4](https://user-images.githubusercontent.com/48939055/57563016-33853a00-735e-11e9-87df-eb2af1ad6faf.jpg)
 
 
-[b] Punto 2. Tutorial Splunk: [/b]
+<b> Punto 2. Tutorial Splunk: </b>
 
 ![splunk5](https://user-images.githubusercontent.com/48939055/57570050-64e42100-73c3-11e9-9abe-9759293536b1.jpg)
 
