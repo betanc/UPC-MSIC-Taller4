@@ -85,4 +85,12 @@ Conexión de SPLUNK con la Base de Datos, para el Monitoreo
 
 ![splunk23](https://user-images.githubusercontent.com/48939055/57572220-e1372e00-73dc-11e9-9c50-dfbe40c6a87c.jpg)
 
+<b>Punto 4. Configure splunk para detectar esos 2 riesgos</b>
+
+1. RIESGO CREACION DE USUARIOS NO AUTORIZADA
+
+![riesgo creacion de usuarios no autorizados](https://user-images.githubusercontent.com/50051421/57572390-19d80700-73df-11e9-8f5f-bb7f9f35b526.PNG)
+
+
+
 
